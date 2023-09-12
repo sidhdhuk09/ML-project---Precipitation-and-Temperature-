@@ -14,4 +14,4 @@ Finally, to predict precipitation values, I used a regression decision tree to c
 ![linear regression to check relationship between temp and percipitation](https://github.com/sidhdhuk09/ML-project---Precipitation-and-Temperature-/assets/76087316/94194688-4e0a-4732-870b-ddf925a7be92)
 ![linear regression no relation](https://github.com/sidhdhuk09/ML-project---Precipitation-and-Temperature-/assets/76087316/b22ae791-db98-431f-936d-d5c0bd76c2d0)
 ![decision tree](https://gith![decision tree map](https://github.com/sidhdhuk09/ML-project---Precipitation-and-Temperature-/assets/76087316/00626b1c-d629-4a8a-98cb-e20685609e43)
-ub.com/sidhdhuk09/ML-project---Precipitation-and-Temperature-/assets/76087316/e81a5162-47ac-4ba4-8144-e88002179a72)
+![decision tree map](https://github.com/sidhdhuk09/ML-project---Precipitation-and-Temperature-/assets/76087316/e57d1707-9395-4b02-98f4-fa37f0b59f6a)
